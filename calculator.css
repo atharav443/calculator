@@ -1,0 +1,200 @@
+body{
+  background-color:blueviolet;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.parent{
+  height: 600px;
+  width: 600px;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 30px;
+  margin-top: 60px;
+  margin-left: 100px;
+  margin-right: 100px;
+  display:flex;
+}
+.child1{
+    width:80%;
+    border-right: 2px solid black;
+}
+.child2{
+    width:20%;
+   
+}
+.child11{
+    height:20%;
+    border-bottom:  2px solid black;
+}
+.child12{
+    font-size: larger;
+    height:20%;
+    border-bottom:  2px solid black;
+}
+.child13{
+    height:60%;
+    display: flex;
+    flex-direction:column;
+}
+.boxnum{
+    height:25%;
+   
+    text-align: center;
+    display:flex;
+}
+.child134{
+    height:25%;
+    display:flex;
+}
+.child1311{
+    height: 100%;
+    width:33.3%;
+    
+    font-size: 60px;
+}
+div.child1311:hover{
+  background-color: grey;
+  cursor: pointer;
+}
+.child1312{
+    height: 100%;
+    width:33.3%;
+    font-size: 60px;
+}
+div.child1312:hover{
+  background-color: grey;
+  cursor: pointer;
+}
+
+.child1313{
+    height: 100%;
+    width:33.3%;
+   
+    font-size: 60px;
+}
+div.child1313:hover{
+  background-color: grey;
+  cursor: pointer;
+}
+.child1321{
+    height: 100%;
+    width:33.3%;
+   
+    font-size: 60px;
+}
+div.child1321:hover{
+  background-color: grey;
+  cursor: pointer;
+}
+.child1322{
+    height: 100%;
+    width:33.3%;
+    
+    font-size: 60px;
+}
+div.child1322:hover{
+  background-color: grey;
+  cursor: pointer;
+}
+.child1323{
+    height: 100%;
+    width:33.3%;
+    
+    font-size: 60px;
+}
+div.child1323:hover{
+  background-color: grey;
+  cursor: pointer;
+}
+.child1331{
+    height: 100%;
+    width:33.3%;
+    
+    font-size: 60px;
+}
+div.child1331:hover{
+  background-color: grey;
+  cursor: pointer;
+}
+
+.child1332{
+    height: 100%;
+    width:33.3%;
+    font-size: 60px;
+}
+div.child1332:hover{
+  background-color: grey;
+  cursor: pointer;
+}
+
+.child1333{
+    height: 100%;
+    width:33.3%;
+    
+    font-size: 60px;
+}
+div.child1333:hover{
+  background-color: grey;
+  cursor: pointer;
+}
+.child1341{
+    height: 100%;
+    width:33.1%;
+    
+    font-size: 60px;
+    text-align: center;
+}
+div.child1341:hover{
+  background-color: grey;
+  cursor: pointer;
+}
+.child1342{
+    height: 100%;
+    width:33.3%;
+   
+    font-size: 60px;
+    text-align: center;
+}
+div.child1342:hover{
+  background-color: grey;
+  cursor: pointer;
+}
+
+#child21{
+    width:100%;
+    height:20%;
+    
+    font-size: 60px;
+    text-align: center;
+}
+#child22{
+    width:100%;
+    height:20%;
+    
+    font-size: 60px;
+    text-align: center;
+}
+#child23{
+    width:100%;
+    height:20%;
+    
+    font-size: 60px;
+    text-align: center;
+}
+#child24{
+    width:100%;
+    height:20%;
+    
+    font-size: 60px;
+    text-align: center;
+}
+#child25{
+    width:100%;
+    height:20%;
+   
+    font-size: 60px;
+    text-align: center;
+}
